@@ -43,3 +43,45 @@ Figma es una plataforma de diseño colaborativo basada en la nube que permite a 
 - **[Plugins de Figma](https://www.figma.com/community/plugins)**
 
 Para más información sobre cómo empezar a usar Figma y explorar sus funcionalidades, visita el sitio web oficial o revisa la documentación disponible en línea.
+
+# Proyecto de Diseño y Prototipo con Figma  
+
+## Descripción  
+Este proyecto es un diseño y prototipo creado en Figma que tiene como objetivo [describe brevemente el propósito del proyecto, por ejemplo: "mejorar la experiencia de usuario en una aplicación de gestión de tareas"].  
+
+## Tabla de Contenidos  
+- [Introducción](#introducción)  
+- [Instalación](#instalación)  
+- [Uso](#uso)  
+- [Características](#características)  
+- [Capturas de Pantalla](#capturas-de-pantalla)  
+- [Prototipo](#prototipo)  
+- [Licencia](#licencia)  
+
+## Introducción  
+En esta sección, puedes ofrecer un poco de contexto sobre el diseño, los problemas a resolver y los usuarios finales del prototipo.  
+
+## Instalación  
+Los archivos de este proyecto son accesibles en [enlace al archivo Figma o repositorio]. Para acceder al prototipo:  
+1. Visita el enlace: [Figma Prototype](https://www.figma.com/file/your_project_link)  
+2. Si no tienes cuenta en Figma, regístrate de forma gratuita.  
+
+## Uso  
+- Navega por el prototipo usando el modo "Presentación" en Figma.  
+- Puedes interactuar con el diseño como si fuera una aplicación real.  
+
+## Características  
+- Interfaz amigable  
+- Elementos interactivos  
+- Diseño responsivo  
+- [Otros aspectos destacados de tu diseño]  
+
+## Capturas de Pantalla  
+![Captura de pantalla 1](ruta/a/la/captura1.png)  
+![Captura de pantalla 2](ruta/a/la/captura2.png)  
+
+## Prototipo  
+Puedes explorar el prototipo interactivo mediante el siguiente enlace: [Acceder al prototipo](https://www.figma.com/file/your_prototype_link)  
+
+## Licencia  
+Este proyecto está bajo la Licencia [Nombre de la Licencia]. Consulta el archivo LICENSE para más detalles.
