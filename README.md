@@ -54,8 +54,7 @@ Este proyecto es un diseño y prototipo creado en Figma que tiene como objetivo 
 - [Instalación](#instalación)  
 - [Uso](#uso)  
 - [Características](#características)   
-- [Prototipo](#prototipo)  
-- [Licencia](#licencia)  
+- [Prototipo](#prototipo)   
 
 ## Introducción  
 En esta sección, puedes ofrecer un poco de contexto sobre el diseño, los problemas a resolver y los usuarios finales del prototipo.  
@@ -78,5 +77,4 @@ Los archivos de este proyecto son accesibles en [enlace al archivo Figma o repos
 ## Prototipo  
 Puedes explorar el prototipo interactivo mediante el siguiente enlace: [Acceder al prototipo](https://www.figma.com/file/your_prototype_link)  
 
-## Licencia  
-Este proyecto está bajo la Licencia [Nombre de la Licencia]. Consulta el archivo LICENSE para más detalles.
+
