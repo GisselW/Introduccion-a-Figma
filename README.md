@@ -53,8 +53,7 @@ Este proyecto es un diseño y prototipo creado en Figma que tiene como objetivo 
 - [Introducción](#introducción)  
 - [Instalación](#instalación)  
 - [Uso](#uso)  
-- [Características](#características)  
-- [Capturas de Pantalla](#capturas-de-pantalla)  
+- [Características](#características)   
 - [Prototipo](#prototipo)  
 - [Licencia](#licencia)  
 
@@ -75,10 +74,6 @@ Los archivos de este proyecto son accesibles en [enlace al archivo Figma o repos
 - Elementos interactivos  
 - Diseño responsivo  
 - [Otros aspectos destacados de tu diseño]  
-
-## Capturas de Pantalla  
-![Captura de pantalla 1](ruta/a/la/captura1.png)  
-![Captura de pantalla 2](ruta/a/la/captura2.png)  
 
 ## Prototipo  
 Puedes explorar el prototipo interactivo mediante el siguiente enlace: [Acceder al prototipo](https://www.figma.com/file/your_prototype_link)  
