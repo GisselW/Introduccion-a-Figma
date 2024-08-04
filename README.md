@@ -77,4 +77,44 @@ Los archivos de este proyecto son accesibles en [enlace al archivo Figma o repos
 ## Prototipo  
 Puedes explorar el prototipo interactivo mediante el siguiente enlace: [Acceder al prototipo](https://www.figma.com/file/your_prototype_link)  
 
+# Recursos para Aprender Figma
+![screenshot of how to learn Figma.](https://th.bing.com/th/id/OIP.ogXYru9wXxHrOk1w3wHDcgHaEK?rs=1&pid=ImgDetMain)
 
+Figma es una herramienta de diseño colaborativo que ha ganado popularidad por su facilidad de uso y sus potentes características. Este archivo README proporciona una recopilación de recursos útiles para aprender Figma, desde tutoriales básicos hasta cursos avanzados.
+
+
+## Tutoriales en Línea
+
+1. **[Figma Learn Design](https://www.figma.com/resources/learn-design/)**: Figma ofrece una serie de tutoriales gratuitos para aprender los conceptos básicos y avanzados de la herramienta.
+2. **[Design+Code Figma Tutorials](https://www.designcode.io/figma)**: Una colección de tutoriales gratuitos que cubren una variedad de aspectos del diseño en Figma.
+3. **[YouTube: Figma Design System Tutorial](https://www.youtube.com/watch?v=wdwblNQipz4)**: Un tutorial visual que cubre la creación de sistemas de diseño en Figma.
+
+## Cursos en Video
+
+1. **[Udemy: Mastering Figma](https://www.udemy.com/course/figma-masterclass/)**: Un curso completo que abarca desde los fundamentos hasta técnicas avanzadas en Figma.
+2. **[Coursera: UI/UX Design with Figma](https://www.coursera.org/learn/ui-ux-design-figma)**: Curso en línea que combina el aprendizaje de Figma con principios de diseño de UX/UI.
+3. **[LinkedIn Learning: Figma Essential Training](https://www.linkedin.com/learning/figma-essential-training)**: Curso básico para aprender a usar Figma de manera efectiva en proyectos de diseño.
+
+## Documentación Oficial
+
+1. **[Figma Help Center](https://help.figma.com/)**: La documentación oficial de Figma, que incluye guías y respuestas a preguntas frecuentes.
+2. **[Figma Community](https://www.figma.com/community)**: Recursos y plantillas creadas por la comunidad de Figma que pueden ayudarte a aprender y experimentar con diferentes técnicas.
+
+## Comunidades y Foros
+
+1. **[Figma Forum](https://forum.figma.com/)**: Un foro donde los usuarios de Figma pueden hacer preguntas, compartir conocimientos y discutir sobre la herramienta.
+2. **[Reddit: r/Figma](https://www.reddit.com/r/Figma/)**: Subreddit dedicado a la discusión y el intercambio de recursos relacionados con Figma.
+
+## Libros y Guías
+
+1. **[“Figma For Beginners” por B. Alexander](https://www.amazon.com/Figma-Beginners-B-Alexander/dp/XXXXX)**: Un libro orientado a principiantes que cubre los conceptos básicos y técnicas en Figma.
+2. **[“Design Systems with Figma” por A. Sullivan](https://www.amazon.com/Design-Systems-Figma-A-Sullivan/dp/XXXXX)**: Guía enfocada en la creación y mantenimiento de sistemas de diseño utilizando Figma.
+
+## Herramientas y Plugins Adicionales
+
+1. **[Figma Plugins](https://www.figma.com/plugins/)**: Explora y encuentra plugins que extienden la funcionalidad de Figma para mejorar tu flujo de trabajo.
+2. **[Figma Resources](https://www.figmaresources.com/)**: Sitio web con una colección de recursos, herramientas y plugins recomendados para Figma.
+
+## Conclusión
+
+Aprender Figma puede mejorar significativamente tu flujo de trabajo en diseño y prototipado. Aprovecha estos recursos para adquirir conocimientos básicos y avanzados sobre Figma, y únete a la comunidad para seguir aprendiendo y creciendo como diseñador.
